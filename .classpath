@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/selenium-java-2.47.1.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/selenium-java-2.47.1-srcs.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Study/All Jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
